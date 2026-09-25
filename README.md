@@ -41,22 +41,6 @@ The initial prototype was trained using **20 images** containing the five compon
 
 Because of the small dataset size, this project is intended as a **proof-of-concept/demo** rather than a highly accurate production system.
 
-## ▶️ Run the Project
-
-Install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the detection:
-
-```bash
-python main.py
-```
-
-Connect a webcam and point it at the components.
-
 ## 🔮 Future Improvements
 
 * Increase the size and diversity of the dataset
@@ -70,9 +54,3 @@ Connect a webcam and point it at the components.
 This project was developed with the help of the following tutorial:
 
 [YouTube Tutorial](https://youtu.be/r0RspiLG260)
-
-## 👨‍💻 Author
-
-**K Omkara Sharma**
-
-
