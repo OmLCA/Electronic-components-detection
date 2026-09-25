@@ -75,4 +75,4 @@ This project was developed with the help of the following tutorial:
 
 **K Omkara Sharma**
 
-Robotics & AI | Computer Vision | Embedded Systems
+
