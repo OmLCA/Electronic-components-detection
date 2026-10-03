@@ -61,10 +61,13 @@ Because of the small dataset size, this project is intended as a **proof-of-conc
 ```bash
 conda create -n yolo-env python=3.10
 
+```
 4. Activate the environment:
 
+```bash
 conda activate yolo-env
 
+```
 5. Install the required Python libraries:
 
 pip install ultralytics opencv-python numpy
