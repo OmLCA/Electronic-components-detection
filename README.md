@@ -70,16 +70,20 @@ conda activate yolo-env
 ```
 5. Install the required Python libraries:
 
+```bash
 pip install ultralytics opencv-python numpy
 
+```
 6. Make sure my_model.pt and yolo_detect.py are present in the same folder.
 
 7. Connect a webcam to the PC/Laptop.
 
 8. Run the detection program:
 
+```bash
 python yolo_detect.py --model my_model.pt --source usb0
 
+```
 The webcam window will open and the model will detect the trained electronic components.
 Press Q to stop the detection.
 
